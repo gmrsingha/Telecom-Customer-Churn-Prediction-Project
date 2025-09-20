@@ -17,25 +17,12 @@ I will explore the data and try to answer some questions like:
 ## Technology Used:
 -> Python,jupyter notebook
 
-## Questions (KPIs)
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 10 states contributingto the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
-- Percentage of Total Orders delivered
-
-
 ## Process
 
 - Analyzed 7,043 customer records from a telecom dataset to identify churn patterns using Python (Pandas, Seaborn, Scikit-learn).
 - Engineered features and trained models (Logistic Regression, Random Forest) achieving 80% accuracy in predicting customer churn.
 - Visualized key churn drivers using Python (Seaborn & Matplotlib), highlighting impactful features like contract type, tenure, and monthly charges.
 - Demonstrated end-to-end data analysis skills, from cleaning and exploration to modeling and insight communication—reinforcing real-world problem-solving ability.
-
 
 ## Project Insights
 
