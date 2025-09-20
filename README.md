@@ -47,7 +47,11 @@ I will explore the data and try to answer some questions like:
 
 ## Final Conclusion:
 
-According to the confusion matrix, the algorithm predicts 1400 of the actual non-churn values to be non-churn and 149 to be churn, for a total of 1400+149=1549. In contrast, the system predicts 324 churn values and 237 non-churn values out of the 237+324=561 actual churn values.
+According to the confusion matrix, the algorithm predicts 1400 of the actual non-churn values to be non-churn and 149 to be churn, for a total of 1400+149=1549. 
+In contrast, the system predicts 324 churn values and 237 non-churn values out of the 237+324=561 actual churn values.
 
-Customer attrition is undoubtedly detrimental to a company's bottom line.There are several tactics that can be used to stop client attrition. Knowing its clients well is the best approach for a business to prevent customer attrition. This entails determining which clients are most likely to leave and making efforts to increase their level of satisfaction.Naturally, the first step in addressing this issue is to improve customer service.Another tactic to lower client churn is to foster customer loyalty with pertinent experiences and tailored service.In order to take a proactive stance against future customer attrition, several businesses survey their ex-customers to learn why they left.
+Customer attrition is undoubtedly detrimental to a company's bottom line.There are several tactics that can be used to stop client attrition. Knowing its clients well is the best approach for a business to prevent customer attrition. 
+This entails determining which clients are most likely to leave and making efforts to increase their level of satisfaction.Naturally,the first step in addressing this issue is to improve customer service.
+Another tactic to lower client churn is to foster customer loyalty with pertinent experiences and tailored service.
+In order to take a proactive stance against future customer attrition, several businesses survey their ex-customers to learn why they left.
 
