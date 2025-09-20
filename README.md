@@ -15,7 +15,7 @@ I will explore the data and try to answer some questions like:
 - <a href="https://github.com/gmrsingha/Telecom-Customer-Churn-Prediction-Project/blob/main/Dataset.xls">Customer Churn Dataset</a>
 
 ## Technology Used:
--> Python,jupyter notebook
+- Python,jupyter notebook
 
 ## Process
 
